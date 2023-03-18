@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+![left](https://zyxma-portfolio.netlify.app/assets/left-32926db0.svg)
+![right](https://zyxma-portfolio.netlify.app/assets/right-d2559a10.svg)
 <!--
 **6MA-606/6MA-606** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
