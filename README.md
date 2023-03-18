@@ -1,13 +1,15 @@
 ## Hello! Everyone 👋
 
 <p align="center">
+<a href="#">
   <img width="400" src="https://zyxma-portfolio.netlify.app/assets/right-d2559a10.svg" />
+</a>
 </p>
 
 <a href="https://www.facebook.com/sittha.manittayakul/">
   <img height="30" src="./src/facebook-btn.svg" />
 </a>
-&nbsp;
+
 <a href="https://www.instagram.com/sittha.m_/">
   <img height="30" src="./src/instagram-btn.svg" />
 </a>
