@@ -1,9 +1,7 @@
 ## Hello! Everyone 👋
 
 <p align="center">
-<a href="#">
-  <img width="400" src="https://zyxma-portfolio.netlify.app/assets/right-d2559a10.svg" />
-</a>
+<img src="./src/banner.svg" alt="my banner">
 </p>
 
 <a href="https://www.facebook.com/sittha.manittayakul/">
@@ -17,6 +15,13 @@
 <a href="https://www.linkedin.com/in/sittha-manittayakul-76639125b/">
   <img height="30" src="./src/linked-in.svg" />
 </a>
+
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=6MA-606&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=6MA-606&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+<br />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6MA-606&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6MA-606&layout=compact&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
 <!--
 **6MA-606/6MA-606** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
