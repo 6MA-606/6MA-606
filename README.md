@@ -1,5 +1,3 @@
-## Hello! Everyone 👋
-
 <p align="center">
 <img src="./src/banner.svg" alt="my banner">
 </p>
