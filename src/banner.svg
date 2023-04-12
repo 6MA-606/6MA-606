@@ -16,8 +16,8 @@
         }
         
         @keyframes float2 {
-            0%, 100% { transform: translateY(1.2%); }
-            50% { transform: translateY(-0.8%); }
+            0%, 100% { transform: translateY(1.5%); }
+            50% { transform: translateY(-0.5%); }
         }
 
         @keyframes spin {
