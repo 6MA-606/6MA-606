@@ -1,5 +1,5 @@
 <p align="center">
-<img src="./src/banner.svg" alt="my banner">
+  <img src="https://raw.githubusercontent.com/6MA-606/6MA-606/main/src/banner.svg" alt="my banner">
 </p>
 
 ## ☕ Technical Skills
