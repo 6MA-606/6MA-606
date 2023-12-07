@@ -3,6 +3,8 @@
 </p>
 
 ## 💻 Coding Activity
+![CodeWar](https://www.codewars.com/users/6MA-606/badges/large)
+
 [![ZYXMA's Activity (dark)](https://github-readme-stats.vercel.app/api/wakatime?username=6MA606&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/6ma-606/github-readme-stats#gh-dark-mode-only)
 [![ZYXMA's Activity (light)](https://github-readme-stats.vercel.app/api/wakatime?username=6MA606&layout=compact&theme=default#gh-light-mode-only)](https://github.com/6ma-606/github-readme-stats#gh-light-mode-only)
 
