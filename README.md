@@ -10,7 +10,7 @@
 
 <br>
 
-## ☕ Technical Skills
+## ☕ Tech Stack
 
 [![NodeJS](https://img.shields.io/badge/node.js-303030?style=for-the-badge&logo=node.js&logoColor=6DA55F)](https://nodejs.org/en)
 [![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)](https://expressjs.com)
@@ -31,6 +31,11 @@
 [![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)](#)
 [![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)](#)
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](#)
+
+<br>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=6MA-606&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
 
 <br>
 
