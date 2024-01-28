@@ -40,6 +40,7 @@
 <br>
 
 ## 📈 Github Stats
+![](https://github-readme-streak-stats.herokuapp.com/?user=6MA-606&theme=dark&hide_border=false)
 [![ZYXMA's stats (dark)](https://github-readme-stats.vercel.app/api?username=6MA-606&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/6ma-606/github-readme-stats#gh-dark-mode-only)
 [![ZYXMA's stats (light)](https://github-readme-stats.vercel.app/api?username=6MA-606&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/6ma-606/github-readme-stats#gh-light-mode-only)
 <br />
