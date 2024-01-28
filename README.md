@@ -1,6 +1,6 @@
-<!-- <p align="center">
-  <img src="https://raw.githubusercontent.com/6MA-606/6MA-606/main/src/banner.svg" alt="my banner">
-</p> -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/6MA-606/6MA-606/main/src/banner2.svg" alt="my banner">
+</p>
 
 ## 💻 Coding Activity
 ![CodeWar](https://www.codewars.com/users/6MA-606/badges/large)
