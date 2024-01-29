@@ -105,6 +105,15 @@
 <!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=6MA606&layout=compact&theme=dark" height="180px" /> -->
 
 <!--START_SECTION:waka-->
+
+```txt
+Vue.js            11 hrs 30 mins  ████████████████▓░░░░░░░░   67.04 %
+XML               1 hr 10 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.82 %
+JavaScript        1 hr 8 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.63 %
+Java              1 hr            █▒░░░░░░░░░░░░░░░░░░░░░░░   05.90 %
+Markdown          37 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 %
+```
+
 <!--END_SECTION:waka-->
 
 <h2 align="center">GitHub State</h2>
