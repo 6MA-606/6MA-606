@@ -1,34 +1,41 @@
-<p align="center">
+<div align="center">
   <img src="https://raw.githubusercontent.com/6MA-606/6MA-606/main/src/banner2.svg" alt="my banner">
-</p>
+</div>
 
-<!-- ## 💻 Coding Activity
+# Hi, I'm Mink! 👋
+I'm an information technology student at King Mongkut's University of Technology Thonburi  
+Interested in **Full Stack Development** and **DevOps**  
+Like to create some interactive and beautiful components (animation, graphics, 3D)
 
-![CodeWar](https://www.codewars.com/users/6MA-606/badges/large) -->
+and drinking coffee while seeing clean code and good performance.
 
 <br>
 
-<h2 align="center">☕ My Tech Stack</h2>
+<h2 align="center">☕ My Tech Stack ☕</h2>
 
 <table align="center">
-  <tr></tr>
-  <tr><td valign="top" width="100%">
+<tr>
+</tr>
+  
+<tr>
+<td>
 
 ### Frontend
 
 <div align="center">
 <img height="30px"  src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-   <img height="30px" src="https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
+<img height="30px" src="https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
 <img height="30px" src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 <img height="30px" src="https://img.shields.io/badge/daisyUI-1ad1a5?style=for-the-badge&logo=daisyui&logoColor=white" />
 <img height="30px" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 <img height="30px" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
 <img height="30px" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
 <img height="30px" src="https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white" />
-
 </div>
 
-</td></tr><tr><td valign="top" width="100%">
+</td></tr>
+<tr>
+<td>
 
 ### Backend
 
@@ -43,8 +50,9 @@
 
 </td>
 </tr>
- <tr><td>
-   
+
+<tr>
+<td>
    
 ### Languages
 
@@ -57,9 +65,11 @@
 <img height="30px" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" />
 </div>
 
-</td></tr>
+</td>
+</tr>
 
-<tr><td>
+<tr>
+<td>
   
 ### Tools
 
@@ -74,9 +84,11 @@
 <img height="30px" src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" />
 </div>
 
-</td></tr>
+</td>
+</tr>
 
-<tr><td>
+<tr>
+<td>
   
 ### Others
 
@@ -91,18 +103,13 @@
 <img height="30px" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />
 </div>
 
-</td></tr>
+</td>
+</tr>
 </table>
 
 <br>
 
-<!-- ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=6MA-606&theme=onedark&no-frame=true&no-bg=true&margin-w=4) -->
-
-<br>
-
-<h2 align="center">Coding Stats</h2>
-<!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=6MA606&layout=compact&theme=dark" height="180px" /> -->
+<h2>💻 Coding Stats</h2>
 
 <!--START_SECTION:waka-->
 
@@ -124,12 +131,14 @@ Markdown          2 hrs 2 mins    -------------------------   00.76 %
 
 <!--END_SECTION:waka-->
 
-<h2 align="center">GitHub State</h2>
+<br>
+
+
+<h2 align="center">🔥 GitHub State 🔥</h2>
 
 <div align="center">
-
+  
 <table>
-
 <thead>
 <tr>
 <th><div align="center">Streak</div></th>
@@ -141,11 +150,9 @@ Markdown          2 hrs 2 mins    -------------------------   00.76 %
   <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=6MA-606&theme=dark&hide_border=false" /></td>
 </tr>
 </tbody>
-
 </table>
 
 <table>
-
 <thead>
 <tr>
 <th><div align="center">Stats</div></th>
@@ -167,7 +174,9 @@ Markdown          2 hrs 2 mins    -------------------------   00.76 %
 </table>
 </div>
 
-### 🤝 Contact Me:
+<br>
+
+## 🤝 Contact Me:
 
 [![facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/sittha.manittayakul/)
 [![ig](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/sittha.m_/)
