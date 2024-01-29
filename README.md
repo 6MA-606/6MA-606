@@ -7,7 +7,7 @@ I'm an information technology student at King Mongkut's University of Technology
 Interested in **Full Stack Development** and **DevOps**  
 Like to create some interactive and beautiful components (animation, graphics, 3D)
 
-and drinking coffee while seeing clean code and good performance.
+and drinking coffee while seeing clean code with good performance.
 
 <br>
 
