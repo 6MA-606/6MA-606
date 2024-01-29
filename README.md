@@ -2,12 +2,9 @@
   <img src="https://raw.githubusercontent.com/6MA-606/6MA-606/main/src/banner2.svg" alt="my banner">
 </p>
 
-## 💻 Coding Activity
+<!-- ## 💻 Coding Activity
 
-![CodeWar](https://www.codewars.com/users/6MA-606/badges/large)
-
-[![ZYXMA's Activity (dark)](https://github-readme-stats.vercel.app/api/wakatime?username=6MA606&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/6ma-606/github-readme-stats#gh-dark-mode-only)
-[![ZYXMA's Activity (light)](https://github-readme-stats.vercel.app/api/wakatime?username=6MA606&layout=compact&theme=default#gh-light-mode-only)](https://github.com/6ma-606/github-readme-stats#gh-light-mode-only)
+![CodeWar](https://www.codewars.com/users/6MA-606/badges/large) -->
 
 <br>
 
@@ -99,38 +96,53 @@
 
 <br>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=6MA-606&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
+<!-- ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=6MA-606&theme=onedark&no-frame=true&no-bg=true&margin-w=4) -->
 
 <br>
 
-## 📈 Github Stats
+<h2 align="center">Coding Stats</h2>
+<!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=6MA606&layout=compact&theme=dark" height="180px" /> -->
 
-| stats |
-| :---: |
-| <img src="https://github-readme-streak-stats.herokuapp.com/?user=6MA-606&theme=dark&hide_border=false" /> |
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
-| stats | streak |
-| :---: | :---: |
-| <img src="https://github-readme-stats.vercel.app/api?username=6MA-606&show_icons=true&theme=dark" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=6MA-606&layout=compact&theme=dark" /> |
+<h2 align="center">GitHub State</h2>
 
 <div align="center">
+
 <table>
 
 <thead>
 <tr>
-<th align="center">📊 Weekly development breakdown</th>
-<th align="center">📊 Weekly language breakdown</th>
+<th><div align="center">Streak</div></th>
 </tr>
 </thead>
 
 <tbody>
 <tr>
-<td align="center" width="30%">
-<img src="https://github-readme-stats.vercel.app/api?username=6MA-606&show_icons=true&theme=dark" />
+  <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=6MA-606&theme=dark&hide_border=false" /></td>
+</tr>
+</tbody>
+
+</table>
+
+<table>
+
+<thead>
+<tr>
+<th><div align="center">Stats</div></th>
+<th><div align="center">Languages</div></th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=6MA-606&show_icons=true&theme=dark" height="180px" />
 </td>
-<td align="center" width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=6MA-606&layout=compact&theme=dark" />
+<td align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=6MA-606&layout=compact&theme=dark" height="180px" />
 </td>
 </tr>
 </tbody>
