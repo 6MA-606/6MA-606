@@ -134,7 +134,7 @@ Markdown          2 hrs 2 mins    -------------------------   00.76 %
 <br>
 
 
-<h2 align="center">🔥 GitHub State 🔥</h2>
+<h2 id="github_state" align="center">🔥 GitHub State 🔥</h2>
 
 <div align="center">
   
@@ -148,7 +148,7 @@ Markdown          2 hrs 2 mins    -------------------------   00.76 %
 <tbody>
 <tr>
 <td>
-<a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=6MA-606&theme=dark&hide_border=false" /></a>
+<a href="#github_state"><img src="https://github-readme-streak-stats.herokuapp.com/?user=6MA-606&theme=dark&hide_border=false" /></a>
 </td>
 </tr>
 </tbody>
@@ -165,10 +165,10 @@ Markdown          2 hrs 2 mins    -------------------------   00.76 %
 <tbody>
 <tr>
 <td align="center">
-<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=6MA-606&show_icons=true&theme=dark" height="180px" /></a>
+<a href="#github_state"><img src="https://github-readme-stats.vercel.app/api?username=6MA-606&show_icons=true&theme=dark" height="180px" /></a>
 </td>
 <td align="center">
-<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=6MA-606&layout=compact&theme=dark" height="180px" /></a>
+<a href="#github_state"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=6MA-606&layout=compact&theme=dark" height="180px" /></a>
 </td>
 </tr>
 </tbody>
