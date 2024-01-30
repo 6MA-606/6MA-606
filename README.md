@@ -113,6 +113,10 @@ and drinking coffee while seeing clean code with good performance.
 
 <br>
 
+<div align="center">
+<a href="#astrocat"><img id="astrocat" src="https://raw.githubusercontent.com/6MA-606/6MA-606/main/src/astrocat.svg" width="360px" height="360px alt="astrocat"></a>
+</div>
+
 <h2>💻 Coding Stats</h2>
 
 <!--START_SECTION:waka-->
