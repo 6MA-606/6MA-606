@@ -3,29 +3,30 @@
 #head_neck {
     transform-origin: 141px 182px;
     animation: head_neck 10s infinite ease;
+}
 
-    & #head {
-        transform-origin: 122.22px 85px;
-        animation: head 5s infinite ease;
+#head {
+    transform-origin: 122.22px 85px;
+    animation: head 5s infinite ease;
+}
 
-        & #eyelid_upper {
-            animation: eyelid_upper 5s infinite ease;
-        }
 
-        & #eye_color {
-            animation: eye_color 5s infinite ease;
-        }
+#eyelid_upper {
+    animation: eyelid_upper 5s infinite ease;
+}
 
-        & #ear_L {
-            transform-origin: 112px 61px;
-            animation: ear 11s infinite ease;
-        }
+#eye_color {
+    animation: eye_color 5s infinite ease;
+}
 
-        & #ear_R {
-            transform-origin: 101px 71px;
-            animation: ear 11s infinite ease;
-        }
-    }
+#ear_L {
+    transform-origin: 112px 61px;
+    animation: ear 11s infinite ease;
+}
+
+#ear_R {
+    transform-origin: 101px 71px;
+    animation: ear 11s infinite ease;
 }
 
 #f_leg_R {
