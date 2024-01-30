@@ -1,6 +1,5 @@
 <div align="center">
 <a href="#"><img src="https://raw.githubusercontent.com/6MA-606/6MA-606/main/src/banner2.svg" alt="my banner"></a>
-<a href="#"><img src="https://raw.githubusercontent.com/6MA-606/6MA-606/main/src/unicorn.svg" alt="unicorn"></a>
 </div>
 
 # Hi, I'm Mink! 👋
@@ -11,6 +10,10 @@ Like to create some interactive and beautiful components (animation, graphics, 3
 and drinking coffee while seeing clean code with good performance.
 
 <br>
+
+<div align="center">
+<a href="#"><img src="https://raw.githubusercontent.com/6MA-606/6MA-606/main/src/unicorn.svg" alt="unicorn"></a>
+</div>
 
 <h2 align="center">☕ My Tech Stack ☕</h2>
 
