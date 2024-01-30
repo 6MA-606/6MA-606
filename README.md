@@ -12,7 +12,7 @@ and drinking coffee while seeing clean code with good performance.
 <br>
 
 <div align="center">
-<a href="#"><img src="https://raw.githubusercontent.com/6MA-606/6MA-606/main/src/unicorn.svg" alt="unicorn"></a>
+<a href="#unicorn"><img id="unicorn" src="https://raw.githubusercontent.com/6MA-606/6MA-606/main/src/unicorn.svg" alt="unicorn"></a>
 </div>
 
 <h2 align="center">☕ My Tech Stack ☕</h2>
