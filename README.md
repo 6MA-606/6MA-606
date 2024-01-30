@@ -81,7 +81,7 @@ and drinking coffee while seeing clean code with good performance.
 <a href="#tools"><img height="30px" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" /></a>
 <a href="#tools"><img height="30px" src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" /></a>
 <a href="#tools"><img height="30px" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" /></a>
-<a href="#tools"><img height="30px" src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" /></a>
+<a href="#tools"><img height="30px" src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" /></a>
 </div>
 
 </td>
@@ -180,8 +180,7 @@ Markdown          2 hrs 2 mins    -------------------------   00.76 %
 
 ## 🤝 Contact Me:
 
+[![hotmail](https://img.shields.io/badge/Mail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:zyxma.6666@hotmail.com)
 [![facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/sittha.manittayakul/)
 [![ig](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/sittha.m_/)
 [![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sittha-manittayakul-76639125b/)
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zyxma.6666@gmail.com)
-[![hotmail](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:zyxma.6666@hotmail.com)
