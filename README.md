@@ -122,19 +122,19 @@ and drinking coffee while seeing clean code with good performance.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 September 2023 - To: 30 January 2024
+From: 12 September 2023 - To: 31 January 2024
 
-Total Time: 270 hrs 38 mins
+Total Time: 278 hrs 15 mins
 
-JavaScript        146 hrs 41 mins >>>>>>>>>>>>>>-----------   54.20 %
-Java              51 hrs 28 mins  >>>>>--------------------   19.02 %
-Vue.js            25 hrs 50 mins  >>-----------------------   09.55 %
-SQL               11 hrs 38 mins  >------------------------   04.30 %
-XML               7 hrs 28 mins   >------------------------   02.76 %
-HTML              6 hrs 30 mins   >------------------------   02.40 %
-CSS               3 hrs 51 mins   -------------------------   01.42 %
-Markdown          3 hrs 1 min     -------------------------   01.12 %
-TypeScript        2 hrs 12 mins   -------------------------   00.82 %
+JavaScript        147 hrs 23 mins >>>>>>>>>>>>>------------   52.97 %
+Java              51 hrs 40 mins  >>>>>--------------------   18.57 %
+Vue.js            31 hrs 56 mins  >>>----------------------   11.48 %
+SQL               11 hrs 38 mins  >------------------------   04.18 %
+XML               7 hrs 56 mins   >------------------------   02.85 %
+HTML              6 hrs 30 mins   >------------------------   02.34 %
+CSS               3 hrs 51 mins   -------------------------   01.38 %
+Markdown          3 hrs 1 min     -------------------------   01.09 %
+TypeScript        2 hrs 12 mins   -------------------------   00.80 %
 ```
 
 <!--END_SECTION:waka-->
