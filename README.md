@@ -8,7 +8,7 @@
       <td width="60%">
         <h1>Hi, I'm Mink! 👋</h1>
         I'm an information technology student at King Mongkut's University of Technology Thonburi  
-        Interested in **Full Stack Development** and **DevOps**  
+        Interested in <b>Full Stack Development</b> and <b>DevOps</b>  
         Like to create some interactive and beautiful components (animation, graphics, 3D)
         <br>
         <br>
