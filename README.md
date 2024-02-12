@@ -2,18 +2,30 @@
 <a href="#"><img src="https://raw.githubusercontent.com/6MA-606/6MA-606/main/src/banner2.svg" alt="my banner"></a>
 </div>
 
-# Hi, I'm Mink! 👋
-I'm an information technology student at King Mongkut's University of Technology Thonburi  
-Interested in **Full Stack Development** and **DevOps**  
-Like to create some interactive and beautiful components (animation, graphics, 3D)
-
-and drinking coffee while seeing clean code with good performance.
+<table style="border: 0px">
+  <tbody>
+    <tr>
+      <td width="60%">
+        <h1>Hi, I'm Mink! 👋</h1>
+        I'm an information technology student at King Mongkut's University of Technology Thonburi  
+        Interested in **Full Stack Development** and **DevOps**  
+        Like to create some interactive and beautiful components (animation, graphics, 3D)
+        <br>
+        <br>
+        and drinking coffee while seeing clean code with good performance.
+        <div align="center">
+          <a href="#unicorn"><img id="unicorn" src="https://raw.githubusercontent.com/6MA-606/6MA-606/main/src/unicorn.svg" alt="unicorn"></a>
+        </div>
+      </td>
+      <td>
+        <a href="https://app.daily.dev/zyxma"><img src="https://api.daily.dev/devcards/29ab23ac0a5e4221b9a6a832adfd9301.png?r=yjd" width="400" alt="Sittha Manittayakul's Dev Card"/></a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 <br>
 
-<div align="center">
-<a href="#unicorn"><img id="unicorn" src="https://raw.githubusercontent.com/6MA-606/6MA-606/main/src/unicorn.svg" alt="unicorn"></a>
-</div>
 
 <h2 align="center">☕ My Tech Stack ☕</h2>
 
