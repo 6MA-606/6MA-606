@@ -18,6 +18,7 @@
         </div>
       </td>
       <td>
+<!--         <a href="https://app.daily.dev/zyxma"><img src="https://api.daily.dev/devcards/v2/kwOCICIpv4GpawulauXev.png?type=default&r=k23" width="356" alt="Sittha Manittayakul's Dev Card"/></a> -->
         <a href="https://app.daily.dev/zyxma"><img src="https://api.daily.dev/devcards/29ab23ac0a5e4221b9a6a832adfd9301.png?r=yjd" width="400" alt="Sittha Manittayakul's Dev Card"/></a>
       </td>
     </tr>
