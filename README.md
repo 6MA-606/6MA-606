@@ -17,10 +17,6 @@
           <a href="#unicorn"><img id="unicorn" src="https://raw.githubusercontent.com/6MA-606/6MA-606/main/src/unicorn.svg" alt="unicorn"></a>
         </div>
       </td>
-      <td>
-<!--         <a href="https://app.daily.dev/zyxma"><img src="https://api.daily.dev/devcards/v2/kwOCICIpv4GpawulauXev.png?type=default&r=k23" width="356" alt="Sittha Manittayakul's Dev Card"/></a> -->
-        <a href="https://app.daily.dev/zyxma"><img src="https://api.daily.dev/devcards/29ab23ac0a5e4221b9a6a832adfd9301.png?r=yjd" width="400" alt="Sittha Manittayakul's Dev Card"/></a>
-      </td>
     </tr>
   </tbody>
 </table>
@@ -196,6 +192,20 @@ Other             2 hrs 19 mins   -------------------------   00.67 %
 
 </table>
 </div>
+
+<br>
+
+<h2 id="other">Other</h2>
+
+<!-- <a href="https://app.daily.dev/zyxma"><img src="https://api.daily.dev/devcards/v2/kwOCICIpv4GpawulauXev.png?type=default&r=k23" width="356" alt="Sittha Manittayakul's Dev Card"/></a> -->
+<ul>
+  <li>
+    <b>#DevCard: daily.dev</b>
+    <br>
+    <br>
+    <a href="https://app.daily.dev/zyxma"><img src="https://api.daily.dev/devcards/29ab23ac0a5e4221b9a6a832adfd9301.png?r=yjd" width="300" alt="Sittha Manittayakul's Dev Card"/></a>
+  </li>
+</ul>
 
 <br>
 
