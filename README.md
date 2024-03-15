@@ -203,7 +203,7 @@ Bash              3 hrs           -------------------------   00.74 %
     <b>#DevCard: daily.dev</b>
     <br>
     <br>
-    <a href="https://app.daily.dev/zyxma"><img src="https://api.daily.dev/devcards/29ab23ac0a5e4221b9a6a832adfd9301.png?r=yjd" width="300" alt="Sittha Manittayakul's Dev Card"/></a>
+<!--     <a href="https://app.daily.dev/zyxma"><img src="https://api.daily.dev/devcards/29ab23ac0a5e4221b9a6a832adfd9301.png?r=yjd" width="300" alt="Sittha Manittayakul's Dev Card"/></a> -->
     <a href="https://app.daily.dev/zyxma"><img src="https://api.daily.dev/devcards/v2/kwOCICIpv4GpawulauXev.png?type=wide&r=d44" width="652" alt="Sittha Manittayakul's Dev Card"/></a>
   </li>
 </ul>
