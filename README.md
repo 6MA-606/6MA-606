@@ -133,14 +133,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 September 2023 - To: 30 September 2024
+From: 12 September 2023 - To: 01 October 2024
 
-Total Time: 803 hrs 13 mins
+Total Time: 803 hrs 46 mins
 
-Vue.js            315 hrs 39 mins >>>>>>>>>>---------------   39.30 %
-JavaScript        261 hrs 7 mins  >>>>>>>>-----------------   32.51 %
-Java              67 hrs 23 mins  >>-----------------------   08.39 %
-JSON              64 hrs 28 mins  >>-----------------------   08.03 %
+Vue.js            315 hrs 43 mins >>>>>>>>>>---------------   39.28 %
+JavaScript        261 hrs 37 mins >>>>>>>>-----------------   32.55 %
+Java              67 hrs 23 mins  >>-----------------------   08.38 %
+JSON              64 hrs 28 mins  >>-----------------------   08.02 %
 XML               12 hrs 51 mins  -------------------------   01.60 %
 SQL               11 hrs 53 mins  -------------------------   01.48 %
 HTML              11 hrs 26 mins  -------------------------   01.42 %
