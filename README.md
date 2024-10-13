@@ -156,6 +156,8 @@ CSS               7 hrs 43 mins   -------------------------   00.93 %
 <h2 id="github_state" align="center">🔥 GitHub State 🔥</h2>
 
 <div align="center">
+<img id="astrocat" src="https://raw.githubusercontent.com/6MA-606/6MA-606/main/src/black-cat.svg" width="360px" height="360px alt="black-cat">
+
   
 <table>
 <thead>
