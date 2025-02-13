@@ -1,0 +1,49 @@
+name: Update Profile Banner
+
+on:
+  schedule:
+    - cron: "0 23 * * *"  # Runs at 6 AM Thailand Time (11 PM UTC)
+    - cron: "0 11 * * *"  # Runs at 6 PM Thailand Time (11 AM UTC)
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Detect current banner
+        id: check
+        run: |
+          if grep -q 'banner2-night.svg' README.md; then
+            echo "CURRENT_BANNER=night" >> $GITHUB_ENV
+          else
+            echo "CURRENT_BANNER=day" >> $GITHUB_ENV
+          fi
+
+      - name: Update banner to day version (Scheduled 6 AM)
+        if: github.event.schedule == '0 6 * * *'
+        run: |
+          sed -i 's/banner2-night.svg/banner2.svg/' README.md
+
+      - name: Update banner to night version (Scheduled 6 PM)
+        if: github.event.schedule == '0 18 * * *'
+        run: |
+          sed -i 's/banner2.svg/banner2-night.svg/' README.md
+
+      - name: Toggle banner (Manual Dispatch)
+        if: github.event_name == 'workflow_dispatch'
+        run: |
+          if [ "$CURRENT_BANNER" == "night" ]; then
+            sed -i 's/banner2-night.svg/banner2.svg/' README.md
+          else
+            sed -i 's/banner2.svg/banner2-night.svg/' README.md
+          fi
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -am "Toggle banner image"
+          git push
