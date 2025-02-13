@@ -47,4 +47,4 @@ jobs:
           git config --global user.email "zyxma.6666@hotmail.com"
           git add README.md
           git commit -m "Toggle banner image"
-          git push https://x-access-token:${{ secrets.GH_TOKAN }}@github.com/6MA-606/6MA-606.git main
+          git push https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/6MA-606/6MA-606.git main
