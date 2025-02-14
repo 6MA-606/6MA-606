@@ -10,9 +10,6 @@
         I'm an information technology student at King Mongkut's University of Technology Thonburi  
         Interested in <b>Full Stack Development</b> and <b>DevOps</b>  
         Like to create some interactive and beautiful components (animation, graphics, 3D)
-        <br>
-        <br>
-        and drinking coffee while seeing clean code with good performance.
         <div align="center">
           <a href="#unicorn"><img id="unicorn" src="https://raw.githubusercontent.com/6MA-606/6MA-606/main/src/unicorn.svg" alt="unicorn"></a>
         </div>
