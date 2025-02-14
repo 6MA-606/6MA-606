@@ -166,7 +166,7 @@ Python                     8 hrs 18 mins   -------------------------   00.84 %
 <tbody>
 <tr>
 <td>
-<a href="#github_state"><img src="https://github-readme-streak-stats.herokuapp.com/?user=6MA-606&theme=dark&hide_border=false" /></a>
+<a href="#github_state"><img src="https://github-readme-streak-stats-khaki-ten.vercel.app?user=6MA-606&theme=dark" alt="GitHub Streak" /></a>
 </td>
 </tr>
 </tbody>
