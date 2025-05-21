@@ -130,18 +130,18 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 September 2023 - To: 19 May 2025
+From: 12 September 2023 - To: 20 May 2025
 
-Total Time: 1,059 hrs 50 mins
+Total Time: 1,063 hrs 11 mins
 
-Vue.js                     418 hrs 36 mins >>>>>>>>>>---------------   39.50 %
-JavaScript                 322 hrs 53 mins >>>>>>>>-----------------   30.47 %
-Java                       91 hrs 17 mins  >>-----------------------   08.61 %
-Python                     26 hrs 22 mins  >------------------------   02.49 %
+Vue.js                     418 hrs 36 mins >>>>>>>>>>---------------   39.37 %
+JavaScript                 322 hrs 53 mins >>>>>>>>-----------------   30.37 %
+Java                       93 hrs 29 mins  >>-----------------------   08.79 %
+Python                     26 hrs 22 mins  >------------------------   02.48 %
 TypeScript                 17 hrs 51 mins  -------------------------   01.68 %
-XML                        16 hrs 51 mins  -------------------------   01.59 %
+XML                        17 hrs 45 mins  -------------------------   01.67 %
 Bash                       12 hrs 48 mins  -------------------------   01.21 %
-SQL                        12 hrs 1 min    -------------------------   01.14 %
+SQL                        12 hrs 1 min    -------------------------   01.13 %
 HTML                       11 hrs 35 mins  -------------------------   01.09 %
 ```
 
