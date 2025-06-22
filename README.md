@@ -130,13 +130,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 September 2023 - To: 20 June 2025
+From: 12 September 2023 - To: 21 June 2025
 
-Total Time: 1,148 hrs 1 min
+Total Time: 1,148 hrs 3 mins
 
 Vue.js                     418 hrs 36 mins >>>>>>>>>----------------   36.46 %
-JavaScript                 322 hrs 53 mins >>>>>>>------------------   28.13 %
-Java                       155 hrs 37 mins >>>----------------------   13.56 %
+JavaScript                 322 hrs 53 mins >>>>>>>------------------   28.12 %
+Java                       155 hrs 39 mins >>>----------------------   13.56 %
 Python                     28 hrs 17 mins  >------------------------   02.46 %
 XML                        27 hrs 29 mins  >------------------------   02.39 %
 TypeScript                 17 hrs 51 mins  -------------------------   01.56 %
