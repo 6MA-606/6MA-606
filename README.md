@@ -182,10 +182,10 @@ mcfunction                 28 hrs 19 mins        -------------------------   01.
 <tbody>
 <tr>
 <td align="center">
-<a href="#github_state"><img src="https://github-readme-stats.vercel.app/api?username=6MA-606&show_icons=true&theme=dark" height="180px" /></a>
+<a href="#github_state"><img src="https://6ma-606-readme-stats.vercel.app/api?username=6MA-606&show_icons=true&theme=dark" height="180px" /></a>
 </td>
 <td align="center">
-<a href="#github_state"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=6MA-606&layout=compact&theme=dark" height="180px" /></a>
+<a href="#github_state"><img src="https://6ma-606-readme-stats.vercel.app/api/top-langs/?username=6MA-606&layout=compact&theme=dark" height="180px" /></a>
 </td>
 </tr>
 </tbody>
