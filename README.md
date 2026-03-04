@@ -23,12 +23,13 @@
 
 <h2 align="center">☕ My Tech Stack ☕</h2>
 
-<table align="center">
+<table align="center" width="100%">
+
 <tr>
 </tr>
   
 <tr>
-<td>
+<td width="50%">
 
 ### Frontend
 
@@ -43,9 +44,8 @@
 <a href="#frontend"><img height="30px" src="https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white" /></a>
 </div>
 
-</td></tr>
-<tr>
-<td>
+</td>
+<td width="50%">
 
 ### Backend
 
@@ -60,7 +60,6 @@
 
 </td>
 </tr>
-
 <tr>
 <td>
    
@@ -77,9 +76,7 @@
 </div>
 
 </td>
-</tr>
 
-<tr>
 <td>
   
 ### Tools
@@ -96,10 +93,11 @@
 </div>
 
 </td>
+
 </tr>
 
 <tr>
-<td>
+<td colspan="2">
   
 ### Others
 
@@ -117,6 +115,7 @@
 
 </td>
 </tr>
+
 </table>
 
 <br>
