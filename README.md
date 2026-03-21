@@ -129,15 +129,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 September 2023 - To: 19 March 2026
+From: 12 September 2023 - To: 20 March 2026
 
-Total Time: 1,531 hrs 1 min
+Total Time: 1,531 hrs 37 mins
 
-Vue.js                     418 hrs 39 mins       >>>>>>>------------------   27.35 %
-JavaScript                 323 hrs 16 mins       >>>>>--------------------   21.12 %
-Java                       173 hrs 10 mins       >>>----------------------   11.31 %
-Dart                       156 hrs 57 mins       >>>----------------------   10.25 %
-C                          68 hrs 24 mins        >------------------------   04.47 %
+Vue.js                     418 hrs 39 mins       >>>>>>>------------------   27.33 %
+JavaScript                 323 hrs 16 mins       >>>>>--------------------   21.11 %
+Java                       173 hrs 17 mins       >>>----------------------   11.31 %
+Dart                       157 hrs 6 mins        >>>----------------------   10.26 %
+C                          68 hrs 44 mins        >------------------------   04.49 %
 Python                     39 hrs 20 mins        >------------------------   02.57 %
 XML                        31 hrs 1 min          >------------------------   02.03 %
 mcfunction                 28 hrs 19 mins        -------------------------   01.85 %
