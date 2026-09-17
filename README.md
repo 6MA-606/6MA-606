@@ -164,7 +164,7 @@ mcfunction                 40 hrs 45 mins        >------------------------   02.
 <tbody>
 <tr>
 <td>
-<a href="#github_state"><img src="https://github-readme-streak-stats-khaki-ten.vercel.app?user=6MA-606&theme=dark" alt="GitHub Streak" /></a>
+<a href="#github_state"><img src="https://2026-github-readme-streak-stats.vercel.app?user=6MA-606&theme=dark" alt="GitHub Streak" /></a>
 </td>
 </tr>
 </tbody>
@@ -181,10 +181,10 @@ mcfunction                 40 hrs 45 mins        >------------------------   02.
 <tbody>
 <tr>
 <td align="center">
-<a href="#github_state"><img src="https://6ma-606-readme-stats.vercel.app/api?username=6MA-606&show_icons=true&theme=dark" height="180px" /></a>
+<a href="#github_state"><img src="https://github-stats-extended.vercel.app/api?username=6MA-606&show_icons=true&theme=dark" height="180px" /></a>
 </td>
 <td align="center">
-<a href="#github_state"><img src="https://6ma-606-readme-stats.vercel.app/api/top-langs/?username=6MA-606&layout=compact&theme=dark" height="180px" /></a>
+<a href="#github_state"><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=6MA-606&layout=compact&theme=dark" height="180px" /></a>
 </td>
 </tr>
 </tbody>
